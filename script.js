@@ -1,6 +1,3 @@
-
-
-
 // // const myTextBox = document.getElementById('new-item');
 // // myTextBox.addEventListener('keypress', function (e) {
 // //     if (e.code === "Enter") {
